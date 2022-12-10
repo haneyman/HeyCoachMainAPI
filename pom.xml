@@ -11,7 +11,7 @@
     <!--DON'T CHANGE VERSION WITHOUT UPDATING ????? OR EB WON'T WORK-->
 
     <properties>
-            <springVersion>4.3.1.RELEASE</springVersion>
+            <springVersion>6.0.0</springVersion>
     </properties>
 
     <profiles>
